@@ -1,9 +1,9 @@
-**Olá, eu sou Vinicius Darlan**
+**Hello, I'm Vinicius Darlan**
 
-Sou especialista em aprendizado de máquina e empreendedor baseado no Rio de Janeiro, Brasil, com experiência em desenvolver soluções inovadoras que integram inteligência artificial e automação 💻. Estou sempre procurando por novos desafios e oportunidades para colaborar com outros desenvolvedores e empreendedores 🤝.
+I'm a machine learning specialist and entrepreneur based in Rio de Janeiro, Brazil, with experience in developing innovative solutions that integrate artificial intelligence and automation 💻. I'm always looking for new challenges and opportunities to collaborate with other developers and entrepreneurs 🤝.
 
-**Projetos e Repositórios**
-Não esqueça de verificar meus projetos e repositórios abaixo 👇🏻
+**Projects and Repositories**
+Don't forget to check out my projects and repositories below 👇🏻
 
-**P.S.**
-Para aprender mais sobre meu trabalho e expertise, sinta-se à vontade para explorar meu perfil.
+**P.S**.
+To learn more about my work and expertise, feel free to explore my profile.
